@@ -8,7 +8,8 @@ VLSCI is continually modifying and adding to a wide range of technical informati
 ## Contents 
 
 * [Getting Help](help)
-* [Using Unix at VLSCI](using_unix/intro)
+* [FAQ](faq.md)
+* [Fundamentals](fundamentals/using_unix/intro)
 * [Running Jobs](running_jobs/overview)
 * [Software](software/overview)
 * [Resources](resources/overview)
