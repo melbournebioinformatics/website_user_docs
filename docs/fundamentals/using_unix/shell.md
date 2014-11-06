@@ -12,7 +12,7 @@ The command line itself is provided to you by a program called the *shell*. The 
 
 The diagram below shows how the shell relates to various other components in a computer system:
 
-![The shell and other processes](using_unix/img/shell_processes.png)
+![The shell and other processes](fundamentals/using_unix/img/shell_processes.png)
 
 At the bottom of the diagram sits the computer hardware. Immediately above the hardware is a software abstraction called an *operating system kernel.* The kernel is a piece of software which manages the resources of the computer (disk drives, screen, keyboard *etcetera*) and makes them available to your programs. User applications sit on top of the stack, and interface with the hardware via the kernel. The shell is just an ordinary user application that happens to provide a convenient command interpreter. 
 

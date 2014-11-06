@@ -4,7 +4,7 @@
 
 A *remote login* is a connection between your personal computer and another computer via a network (normally the internet). Your computer is *local* and the other computer is *remote*. In the case of VLSCI, the remote system will be one of our supercomputers. A remote log in allows you to type commands into your computer and have them execute on the remote system, with the results displayed on your screen.
 
-![Connection between local and remote computers](using_unix/img/remote_local.png)
+![Connection between local and remote computers](fundamentals/using_unix/img/remote_local.png)
 
 There are a few ways to remotely login to a Unix computer, but at VLSCI we require you to use the Secure Shell (ssh). It is secure because it encrypts all the data sent between the connected computers, which, amongst other things, prevents eavesdroppers from seeing your password in plain text.
 
@@ -34,7 +34,7 @@ Documentation for using PuTTY is here:
 
 When you start PuTTY you should see a window which looks something like this:
 
-![Putty Configuration Window](using_unix/img/putty_config.png)
+![Putty Configuration Window](fundamentals/using_unix/img/putty_config.png)
 
 To connect to one of the computers at VLSCI you should enter its hostname into the box entitled "Host Name (or IP address)", then click on the *Open* button. All of the settings should remain the same as they were when PuTTY started (which should be the same as they are in the picture above).
 
@@ -42,7 +42,7 @@ In some circumstances you will be presented with a window entitled *PuTTY Securi
 
 If all goes well, a *terminal* window will open, showing a prompt with the text `login as:`. An example terminal window is shown below. You should type your VLSCI username and press *enter*. After entering your username you will be prompted for your password. Assuming you type the correct username and password the system should then display a welcome message, and then present you with a Unix prompt. If you get this far then you are ready to start entering Unix commands and thus begin using the remote computer.
 
-![Putty terminal window](using_unix/img/putty_terminal.png)
+![Putty terminal window](fundamentals/using_unix/img/putty_terminal.png)
 
 ### SSH login from Mac OS X and Linux
 

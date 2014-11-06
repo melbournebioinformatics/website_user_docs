@@ -1,3 +1,3 @@
 # Installed applications
 
-This page will contain a list of installed applications at VLSCI.
+[A list of installed applications at VLSCI](https://www.vlsci.org.au/documentation/software-applications)

@@ -1,6 +1,4 @@
-# Using Unix at VLSCI 
-
-## History and philosophy of Unix
+# What is Unix?
 
 Unix was created at AT&T Bell labs in 1969 following the more ambitious, but less successful, MULTICS project. The popularity of the system grew quickly, especially at universities, because it was cheap, portable, and because the entire source code was provided to users. During the 1980s and 1990s several commercial implementations of Unix were created, particularly for the domain of high-end scientific workstations. The proliferation of many different versions of Unix prompted various standardisation efforts, most notably the Portable Operating Systems Interface (POSIX). Increasingly restrictive software licences and legal battles over Unix prompted the creation of the GNU project (GNU’s Not Unix) to make an operating system based on the philosophy of free and open software. In the early 1990s an open source kernel, called Linux, was created for IBM PC compatible computers. The combination of this kernel with the tools created by the GNU project led to the GNU/Linux operating system, which is now one of the most widely used Unix-like systems in the world. In recent times GNU/Linux has been ported to a wide variety of systems; everything from wristwatches to supercomputers. It is also worth noting that Unix is the foundation of the Apple Mac OS X operating system, and thanks to POSIX, the standard suite of Unix tools is also available on that platform.
 

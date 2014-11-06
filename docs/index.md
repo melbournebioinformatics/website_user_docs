@@ -9,7 +9,7 @@ VLSCI is continually modifying and adding to a wide range of technical informati
 
 * [Getting Help](help)
 * [FAQ](faq.md)
-* [Fundamentals](fundamentals/using_unix/intro)
+* [Fundamentals](fundamentals/overview)
 * [Running Jobs](running_jobs/overview)
 * [Software](software/overview)
 * [Resources](resources/overview)

@@ -160,7 +160,7 @@ Obviously you can only kill processes that you own.
 
 Every Unix process has three default streams associated with it: one input stream and two output streams associated with it. The input stream is called *standard input* (stdin), and the output streams are called *standard output *(stdout) and *standard error *(stderr):
 
-![Standard input, output and error](using_unix/img/stdin_stdout.png)
+![Standard input, output and error](fundamentals/using_unix/img/stdin_stdout.png)
 
 As the names suggest, stdin is for input to the process, stdout is for normal output, and stderr is for error output.
 
@@ -208,7 +208,7 @@ The above example redirects the contents of `psout` into the stdin of `wc` and t
 
 In a similar fashion to redirection, the shell can also arrange for the stdout of one process to be connected to the stdin of another process (and merge the stderr streams):
 
-![Process pipes](using_unix/img/process_pipe.png)
+![Process pipes](fundamentals/using_unix/img/process_pipe.png)
 
 This connection of processes is achieved using a pipe (`|`). For example we can `cat` the contents of the `psout` file and pipe it into the `wc` command like so:
 
