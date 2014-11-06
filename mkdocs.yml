@@ -1,0 +1,20 @@
+site_name: VLSCI User Documentation
+theme: flatly 
+pages:
+- [index.md, "Home"]
+- [help.md, "Help Desk"]
+- [using_unix/intro.md, "Using Unix at VLSCI", "Introduction"]
+- [using_unix/login.md, "Using Unix at VLSCI", "Login and logout"]
+- [using_unix/shell.md, "Using Unix at VLSCI", "The shell"]
+- [using_unix/help.md, "Using Unix at VLSCI", "Getting help"]
+- [using_unix/file_system.md, "Using Unix at VLSCI", "The file system"]
+- [using_unix/working_with_files.md, "Using Unix at VLSCI", "Working with files"]
+- [using_unix/processes.md, "Using Unix at VLSCI", "Processes"]
+- [using_unix/shell_scripts.md, "Using Unix at VLSCI", "Shell scripts"]
+- [using_unix/command_summary.md, "Using Unix at VLSCI", "Command summary"]
+- [running_jobs/overview.md, "Running Jobs", "Overview"]
+- [running_jobs/slurm_x86.md, "Running Jobs", "Running Jobs on the x86 clusters"]
+- [running_jobs/slurm_bluegene.md, "Running Jobs", "Running Jobs on the BlueGene/Q"]
+- [software/overview.md, "Software", "Overview"]
+- [software/installed_applications.md, "Software", "Installed applications"]
+- [resources/overview.md, "Resources", "Overview"]
