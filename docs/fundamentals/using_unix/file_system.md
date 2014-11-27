@@ -4,7 +4,7 @@ Unix provides a *file system* to store and organise data which resides on perman
 
 The diagram below illustrates a small part of a typical Unix file system, rendered as an upside down tree (the root is at the top and the branches extend downwards). The example is for illustrative purposes only, the file system on a real computer would contain many more files and directories.
 
-![Example file system tree](using_unix/img/filesystem_tree.png)
+![Example file system tree](fundamentals/using_unix/img/filesystem_tree.png) <!-- XXX relative path bug -->
 
 In the diagram directories are indicated by red ellipses and files are indicated by yellow rectangles. Note that directories may contain other (sub) directories and also files, and directories can be empty too. The names of the files and directories have been chosen from a real system, but they are not significant in this discussion. However, there are a few things to note about names in general:
 
