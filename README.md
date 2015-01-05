@@ -12,7 +12,8 @@ source mkdocs_dev/bin/activate
 pip install -U mkdocs
 ```
 
-Once you have mkdocs installed (and in your PATH) then you can preview the website like so:
+Once you have mkdocs installed (and in your PATH) then you can preview the website by running the
+following command in the top directory of this repository:
 
 ```
 mkdocs serve
